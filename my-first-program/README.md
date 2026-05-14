@@ -2,7 +2,7 @@
 
 ## Summary
 
-This code pattern introduces you to a simple COBOL application which reads input from three text files, merges their contents, and writes an output containing one sorted list. We'll spend some time introducing the contents of one of our JCL jobs and the COBOL source as well. Our hope is to get you familiar with the basics of JCL and COBOL, but we're not trying to make anyone an expert in a few short minutes. A change here.
+This code pattern introduces you to a simple COBOL application which reads input from three text files, merges their contents, and writes an output containing one sorted list. We'll spend some time introducing the contents of one of our JCL jobs and the COBOL source as well. Our hope is to get you familiar with the basics of JCL and COBOL, but we're not trying to make anyone an expert in a few short minutes.
 
 ## Description
 
